@@ -161,7 +161,7 @@
       "type": "text"
   },
 
-  "allowedViewScheduleLabel": "Schedule",
+  "allowedViewScheduleLabel": "List",
   "@allowedViewScheduleLabel": {
       "description": "Label that is displayed in the calendar header view when allowed views have calendar schedule view.",
       "type": "text"
